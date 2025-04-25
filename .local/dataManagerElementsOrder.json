@@ -1,0 +1,691 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LoginAuto/LoginAuto.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_usu&Sequence_1",
+        "str_login&Sequence_1",
+        "var_resultBrowser&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_VIP&Sequence_1",
+        "str_mensajeDesp&Sequence_1",
+        "int_numVentas&Sequence_1",
+        "double_temp&Sequence_1",
+        "int_altura&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_mayorEdad&Sequence_1",
+        "str_nombreProduct&Sequence_1",
+        "int_cantidad&Sequence_1",
+        "str_nombre&Sequence_1",
+        "dbl_desc&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_comidaGust&Sequence_1",
+        "str_comidaDestest&Sequence_3",
+        "str_comidaFav&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "double_precioTotal&Sequence_1",
+        "double_precio&Sequence_1",
+        "int_cantProduct&Sequence_1",
+        "str_product&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "double_altura&Sequence_1",
+        "double_IMC&Sequence_1",
+        "int_peso&Sequence_1",
+        "int_edad&Sequence_1",
+        "str_nombre&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/ejercicio6.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_inputName&Sequence_1",
+        "mensaje&Sequence_1",
+        "array_nombres&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/ejercicio6 - Plus.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "array_nombres&Sequence_1",
+        "mensaje&Sequence_1",
+        "index&Sequence_1",
+        "str_inputName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio7.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_posArrayMod&Sequence_1",
+        "array_nombres&Sequence_1",
+        "mensaje&Sequence_1",
+        "index&Sequence_1",
+        "str_ElementoNuevo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio8.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "index&Sequence_1",
+        "int_MinPunt&Sequence_1",
+        "int_MaxPunt&Sequence_1",
+        "array_tablaPuntos&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio9.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "array_temperaturas&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio10.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "List_listaTareas&Sequence_1",
+        "string_tareaPendiente&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio11.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list_listaNombres&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio12.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list_ListaPunt&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio15.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list_ListaMusica&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio13.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list_ListaLibros&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio14.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list_ListaLibros&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios diccionarios/Ejercicio Diccionarios.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolean_borradoDic&Sequence_1",
+        "dicc_PaisesYCapitales&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios diccionarios/Ejercicio Diccionarios 2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolean_existeCapital&Sequence_1",
+        "boolean_existePais&Sequence_1",
+        "dicc_PaisesYCapitales&Sequence_1",
+        "boolean_borradoDic&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios diccionarios/Ejercicio diccionarios 3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolean_existeFruta&Sequence_1",
+        "dicc_Frutas&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios diccionarios/Ejercicio diccionarios 4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dicEstudiantes&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios diccionarios/Ejercicio diccionarios 5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios casa/Ejercicos casa cadenas.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_caqdenaMym&Sequence_1",
+        "str_cadenaIndex&Sequence_1",
+        "str_cadenaReplace&Sequence_1",
+        "array_Colores&Sequence_1",
+        "str_cadenaAuto&Sequence_1",
+        "str_cadena&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios casa/Ejercicios casa funciones numéricas.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "array_redondeoDouble&Sequence_1",
+        "double_numRedondear&Sequence_1",
+        "double_numMayor&Sequence_1",
+        "double_num2&Sequence_1",
+        "double_num1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios casa/Ejercicio casa Extra.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "double_numRandom&Sequence_1",
+        "array_Mym&Sequence_1",
+        "int_num2&Sequence_1",
+        "int_num1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio bucles 1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_mensage&Sequence_1",
+        "list_listaNum&Sequence_1",
+        "int_contador&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio bucles 2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_numAMult&Sequence_1",
+        "string_mensaje&Sequence_1",
+        "int_cont&Sequence_1",
+        "list_listaNum&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios casa/Ejercicios casa condicionales.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_numPosNeg&Sequence_1",
+        "int_numParImpar&Sequence_1",
+        "int_numDiaSemana&Sequence_1",
+        "str_operacion&Sequence_1",
+        "int_num2&Sequence_1",
+        "int_num1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios básicos/Ejercicio bucles 3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dicEdades&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios casa/Ejercicio trycatch.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_secretWord&Sequence_1",
+        "str_palabraUsu&Sequence_1",
+        "int_numIntentos&Sequence_1",
+        "variable1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios llamadas externas/Calcular_descuento.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_precioFinal",
+        "int_descuento",
+        "int_precio"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios llamadas externas/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "preciofinal&Sequence_1",
+        "double_descuento&Sequence_1",
+        "double_precio&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicio calculadora/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "double_resultado&Sequence_1",
+        "string_operacion&Sequence_1",
+        "double_num2&Sequence_1",
+        "double_num1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicio calculadora/Calculo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "double_resultado",
+        "double_num2",
+        "double_num1",
+        "str_operacion"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicio calculadora/PeticionDatos.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cstr_compruebaNum&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "string_operacion",
+        "double_num2",
+        "double_num1"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicio calculadora/MostrarResultado.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "double_resultado"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio1/principalSaludo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_devuelveSaludo",
+        "str_nombre"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio1/saludarUsuario.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_salidaSaludo",
+        "str_entradaNombre"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio4/ContarLetras.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SomeVariable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "int_numOUT",
+        "str_textoIN"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio4/PrincipalContarLetras.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_texto",
+        "int_numLetras"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio5/PrincipalVerificarPar.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_TextoParImpar",
+        "int_numInput"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio5/VerificarParImpar.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_ParImparOUT",
+        "int_numIN"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio6/PrincipalCalcularAnoNacimiento.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_textoAnoNac",
+        "int_anoNac"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio6/CalcularAnoNacimiento.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_anoOUT",
+        "int_anoIN"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio7/PrincipalCalcularPerimetro.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_texto",
+        "int_ancho",
+        "int_largo"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio7/CalcularPerimetro.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_texto",
+        "IN_ancho",
+        "IN_largo"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/PrincipalConvertirTemperatura.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "str_Temp",
+        "str_TempConv"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjerciciosBoletin/Ejercicio7/ConvertirTemperatura.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_strTemp",
+        "int_tempIN"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Manage DataTables - Example/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_nombre&Sequence_1",
+        "DT1&Sequence_1",
+        "DataTableString&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "boletin datatable/dataTableEmpleados.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_empleados&Sequence_1",
+        "str_dataTabvleEmpleadosAstr&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios excel/Excels.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_contador&Sequence_1",
+        "dataTable_Pedidos&Sequence_1",
+        "str_Direccion&Sequence_1",
+        "IEN_ClienteCompleto&Sequence_1",
+        "IEN_nombreCompleto&Sequence_1",
+        "str_clientes&Sequence_1",
+        "dt_clientes&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios excel clase/EjercicioExtra.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_dataTableDatos&Sequence_1",
+        "dataTable_datos&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios excel clase/Ejercicio1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dataTable_DatosProductos&Sequence_1",
+        "str_dataTableAStr&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicio temperatura/ObtenerTemperatura.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_existe&Sequence_1",
+        "str_ID&Sequence_1",
+        "int_Temp&Sequence_1",
+        "str_Ciudad&Sequence_1",
+        "dataTable_Ciudades&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicio extracción datos web auto en excel/EjercicioSS.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_productos&Sequence_2",
+        "int_contador&Sequence_3",
+        "boo_existeArticulo&Sequence_3",
+        "str_nombre&Sequence_4",
+        "str_precio&Sequence_4",
+        "str_href&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Extraer datos pagina de la liga/Test_v1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dataTable_clasificacionLiga&Sequence_1",
+        "outputElement&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

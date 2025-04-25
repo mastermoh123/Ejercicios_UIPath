@@ -1,0 +1,27 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjercicioSS.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_productos&Sequence_2",
+        "int_contador&Sequence_3",
+        "boo_existeArticulo&Sequence_3",
+        "str_nombre&Sequence_4",
+        "str_precio&Sequence_4",
+        "str_href&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+Sub InsertarImagenesDesdeURLs()
+    Dim cell As Range
+    Dim url As String
+    Dim img As Object
+    Dim pic As Object
+    Dim ws As Worksheet
+    Dim lastRow As Long
+    
+    Set ws = ActiveSheet
+    
+    lastRow = ws.Cells(ws.Rows.Count, "C").End(xlUp).Row
+    
+    For Each cell In ws.Range("C2:C" & lastRow)
+        url = cell.Value
+        
+        If url <> "" Then
+            On Error Resume Next
+            Set img = CreateObject("MSXML2.XMLHTTP")
+            img.Open "GET", url, False
+            img.Send
+
+            If img.Status = 200 Then
+                Set pic = ws.Pictures.Insert(url)
+                pic.Left = cell.Left
+                pic.Top = cell.Top
+                pic.Width = cell.Width
+                pic.Height = cell.Height
+                
+                cell.ClearContents
+            End If
+            On Error GoTo 0
+        End If
+    Next cell
+End Sub
