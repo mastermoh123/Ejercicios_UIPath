@@ -725,6 +725,26 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejercicios PDF/Solucion.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_datos&Sequence_2",
+        "str_datos&Sequence_2",
+        "str_username&Sequence_2",
+        "str_password&Sequence_2",
+        "dt_datos__&Sequence_2",
+        "str_pdf&Sequence_3",
+        "str_numeroFactura&Sequence_3",
+        "str_fechaFactura&Sequence_3",
+        "str_iva&Sequence_3",
+        "str_impuestos&Sequence_3",
+        "str_total&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

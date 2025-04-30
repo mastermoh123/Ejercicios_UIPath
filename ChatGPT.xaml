@@ -1,0 +1,108 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="ChatGPT" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="ChatGPT_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:isactr="http://schemas.uipath.com/workflow/integration-service-activities/isactr" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:uiascb="clr-namespace:UiPath.IntegrationService.Activities.SWEntities.CF8266A34CA_chatCompletion_Create.Bundle;assembly=CF8266A34CA_chatComp.05cYD2q4L1L1SgRVp3nBCM7" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Models.FilterBuilder</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Models</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Helpers.TypeDetailsCustomization</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Activities</x:String>
+      <x:String>UiPath.Platform.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.IntegrationService.Activities.Runtime</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>CF8266A34CA_chatComp.05cYD2q4L1L1SgRVp3nBCM7</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="ChatGPT" sap:VirtualizedContainerService.HintSize="1295,584.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <isactr:ConnectorActivity Configuration="H4sIAAAAAAAACp1VW2/aMBT+K5afaVZa1k1IfYB01dhgIMKYpqmq3OQQPBI784WVIf77jk2ggdB1m/pQfG5833curOkthyzRoRSGcQGKttc0AqbiOXvIYOuk7W93DdoThTV7w5p+YjnQNs1lAhlt0Buui4ytSuvAWQlPQBg+41gWA0DHiheGS4EBkzlU3ETOiEGLL0ashoTMpPKmWOZFBi4rwCKTVeHKa6O4SPEdSWWGKnG4Lxq0L+XCFo7C8OE7xKYKUdOdf8oy68w8QdOImTl+fnUU4zIdTRd0t/HgeYq41+hnSXd1AzNmM0PbRlnAKlLzkthI8ZypFcUkL1Yndo5SwzHoAh+wyxvDD8sVJLu3z+jLmJXFujJxlfZiFwrVMDW1R95MDDyamtC+bcRIp6oXFTtrKqoShRhAmxPi/hfpv6OEWgytOTlQH7i5dxjDPcQa37DmPqD8ROUzd/0NesJAqjyCCNSSxxC4tiwRPugg+vIOx9B/DG/fXlxddS5bYecIw32ogBkIulYkGQQnnQ1yKj84fx1/vbn40eo3+80oHU+LS9ENB28aZApKY/Z1Mzh3f5iO6loF1wKsUSxrkJF9yHj8EVYTuQBxLWzmVm1cdqw9Y5mG+lQdS75VGhOHImRiyfQusKdRbB+9tVQmbTdLB7pPTg2YOx24x2SGQ0iWIBKp/nWWNi9z2r1Di318frqeobpxO9wT2jARw4gppGNQfAenbALm+jZgKhISeDykQt3RbHmBM3QmCxCMl/+WTb9AnAn3XeUsrUrOO4iNwytUm+n3xhQDMHOJbNwyGbc+IYvnkFQOlQe5PbJuSXouOC3MWUue5Vzwpx6FMrO5PzQHfty0yDfhVqqcmeNgWmtyNdnrtoXUVfKnBtUzkDtIaC+XHlUqr9uIxQuWQlXRZutQ0vI7hqhip0emTeIVcTqSfn9QjTyoElzt1XzhEvxZcvze7RlwqX5na30YRpPKz0KtQp+J1CJJdIJ7D9jjCJ8R/4Wm5vk5lmO6i6UXKDmiE6nrYDnUbn+6mYwXXrDNb5yHO2t9BwAA" ConnectionId="57cfac27-b20b-4aa9-bf39-64f8266a34ca" DisplayName="Generate Chat Completion" sap:VirtualizedContainerService.HintSize="416,257" sap2010:WorkflowViewState.IdRef="ConnectorActivity_1" UiPathActivityTypeId="54bc5239-cc33-383d-a24d-2d56d996b4cc">
+      <isactr:ConnectorActivity.FieldObjects>
+        <isactr:FieldObject Name="model" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String">gpt-4o-mini</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="prompt" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String">
+              <Literal x:TypeArguments="x:String" Value="" />
+            </InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="Jit_chatCompletion" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <OutArgument x:TypeArguments="uiascb:chatCompletion_Create" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="out_text" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <OutArgument x:TypeArguments="x:String" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+      </isactr:ConnectorActivity.FieldObjects>
+    </isactr:ConnectorActivity>
+  </Sequence>
+</Activity>
