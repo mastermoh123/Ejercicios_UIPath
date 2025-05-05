@@ -1,0 +1,13 @@
+{
+  "assemblyStates": {
+    "CF8266A34CA_chatComp.05cYD2q4L1L1SgRVp3nBCM7": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.CF8266A34CA_chatCompletion_Create.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.CF8266A34CA_chatCompletion_Create",
+        "hash": "bXR1YWd5V21hemNBSk9QRHc1eEtQU1BRVnpEd3JiVCtsMTgyemtVcUUyM3dvSmw4bDZmamlpS2FDclMyWk9qR2dMdGxOVEd3YUM0TUpCVGFGNHptTnc9PQ",
+        "assemblyName": "CF8266A34CA_chatComp.05cYD2q4L1L1SgRVp3nBCM7"
+      }
+    }
+  }
+}
